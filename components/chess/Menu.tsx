@@ -123,7 +123,7 @@ export default function Menu() {
                 gets the prize. Blockchain incentives and strategic gameplay in
                 one fascinating package.
               </div>
-              <div className={styles["parti"]}>
+              <div className="md:ml-[-20rem]">
                 <SmokeBackground />
               </div>
             </div>
